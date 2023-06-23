@@ -6,6 +6,7 @@ A basic python program that when run returns the status of listed IP addresses i
 ## How to run
 - go to `/src`
 - run `main.py`
-- the status of the given IP addresses will be returned on stdout with the convention of <br>
-Hostname | IP Address | Status | Avg Latency | %Packets lost
+<!-- - the status of the given IP addresses will be returned on stdout with the convention of <br> -->
+<!-- Hostname | IP Address | Status | Avg Latency | %Packets lost -->
+- the status of the given IP addresses will be displayed on a table window
 
